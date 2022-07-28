@@ -1,0 +1,90 @@
+.d-flex flex-row img {
+    justify-content: space-between;
+    background: #000;
+}
+
+/* Footer section start */
+hr {
+    margin-left: 180px;
+    margin-right: 180px;
+}
+
+footer {
+    background: #1a1a1a;
+    height: auto;
+    width: 100vw;
+    padding-top: 80px;
+    margin-top: 80px;
+    color: #fff;
+
+}
+
+.footer-content {
+    font-family: poppins;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.Social-link {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
+}
+
+.Social-link li {
+    margin: 0 30px;
+    font: size 50px;
+    ;
+
+}
+
+.Social-link a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+}
+
+.Social-link a:hover {
+    color: crimson;
+}
+
+.outer-footer {
+    padding: 15px 0;
+    background-color: #000000;
+    text-align: center;
+    font-family: poppins;
+}
+
+
+
+
+/* footer 2nd */
+.Social-text {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
+}
+
+.Social-text li {
+    margin: 0 30px;
+    font: size 50px;
+    ;
+
+}
+
+.Social-text a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}
+
+.Social-text a:hover {
+    color: crimson;
+}
