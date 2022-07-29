@@ -4,11 +4,6 @@
 }
 
 /* Footer section start */
-hr {
-    margin-left: 180px;
-    margin-right: 180px;
-}
-
 footer {
     background: #1a1a1a;
     height: auto;
@@ -20,7 +15,7 @@ footer {
 }
 
 .footer-content {
-    font-family: poppins;
+    font-family: poppinns;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -37,7 +32,7 @@ footer {
 }
 
 .Social-link li {
-    margin: 0 30px;
+    margin: 0 10px;
     font: size 20px;
     ;
 
