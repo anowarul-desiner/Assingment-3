@@ -85,3 +85,26 @@ footer {
 .Social-text a:hover {
     color: crimson;
 }
+
+.btn {
+    padding: 15px;
+    background-color: rgb(7, 154, 218);
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 20%;
+}
+
+.details {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 20px;
+}
+
+.details h1 {
+    font-weight: 700;
+}
+
+.details p {
+    font-weight: 450;
+    color: rgb(125, 125, 125);
+}
