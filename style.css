@@ -38,7 +38,7 @@ footer {
 
 .Social-link li {
     margin: 0 30px;
-    font: size 50px;
+    font: size 20px;
     ;
 
 }
@@ -86,9 +86,9 @@ footer {
     color: crimson;
 }
 
-.btn {
+#b-work {
     padding: 15px;
-    background-color: rgb(7, 154, 218);
+    background-color: #289BDE;
     color: #fff;
     font-weight: 500;
     margin-bottom: 20%;
@@ -107,4 +107,33 @@ footer {
 .details p {
     font-weight: 450;
     color: rgb(125, 125, 125);
+}
+
+#card-color {
+    background-color: #F4FAFD;
+}
+
+.card-body-1 {
+    padding: 50px;
+}
+
+#wrok-btn-2 {
+    padding: 15px;
+    background-color: #289BDE;
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 20%;
+    margin-top: 10px;
+}
+
+#mdl {
+    background-color: #289BDE;
+    border-radius: 5px;
+}
+
+#mdl-btn {
+    padding: 15px;
+    background-color: #fff;
+    color: #289BDE;
+    font-weight: 500;
 }
